@@ -25,4 +25,4 @@ _tabRouter.map({                    // 关联
   }
 });
 _tabRouter.start(_tabAPP, '#app');      // 启动路由
-// _tabRouter.go('/goods');              // 默认选中
+_tabRouter.go('/goods');              // 默认选中
