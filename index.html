@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+        content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="static/css/reset.css">
+  <script>
+    var html = document.getElementsByTagName("html")[0];
+    var hehe = function () {
+      var winClient = document.documentElement.clientWidth;
+      var fontSize = winClient <= 800 ? winClient / 18.75 : 45;
+      if (fontSize < 17.0667) {
+        fontSize = 17.0667;
+      }
+      html.style.fontSize = fontSize + "px";
+    };
+    hehe();
+  </script>
+  <title>cly</title>
+</head>
+<body>
+<div id="app"></div>
+</body>
+</html>
