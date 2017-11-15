@@ -2,7 +2,7 @@
 
 > api api是假数据 通过express处理的接口，没有抓取饿了么线上数据哦！
 
-[在线地址](http://www.chengluyao.cn/elm)
+[在线地址](http://www.chengluyao.cn/elm) 线上api是自己写的php
 
 ## 使用步骤
 
