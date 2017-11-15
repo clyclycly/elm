@@ -1,6 +1,8 @@
 ## Vue版芒果TV
 
-> api api是假数据 通过express处理的接口，没有抓取饿了么线上数据
+> api api是假数据 通过express处理的接口，没有抓取饿了么线上数据哦！
+
+[在线地址](http://www.chengluyao.cn/elm)
 
 ## 使用步骤
 
@@ -19,7 +21,7 @@ npm run build
 
 ```
 ## 项目演示
-[在线地址](http://www.chengluyao.cn/elm)
+
 ![](https://github.com/clyclycly/elm/blob/master/elm.gif)
 
 ## 技术栈
