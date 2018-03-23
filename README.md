@@ -20,7 +20,7 @@ npm run dev
 npm run build
 
 ```
-``## 项目演示
+.list## 项目演示
 
 ``![](https://github.com/clyclycly/elm/blob/master/elm.gif)
 
