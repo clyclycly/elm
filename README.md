@@ -19,8 +19,8 @@ npm run dev
 # 构建生产环境
 npm run build
 
-```
-.list ## 项目演示
+
+```## 项目演示
 
 ```![](https://github.com/clyclycly/elm/blob/master/elm.gif)
 
