@@ -20,9 +20,9 @@ npm run dev
 npm run build
 
 ```
-`## 项目演示`
+``## 项目演示
 
-`![](https://github.com/clyclycly/elm/blob/master/elm.gif)`
+``![](https://github.com/clyclycly/elm/blob/master/elm.gif)
 
 ## 技术栈
  + vue1.0：基础框架
